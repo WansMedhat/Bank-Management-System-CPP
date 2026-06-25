@@ -57,3 +57,21 @@ The project is divided into multiple modules for better maintainability and scal
 Wans Medhat
 
 ## Wans Medhat
+
+## Screenshots
+
+### Login Screen
+
+![Login Screen](screenshots/login.png)
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Transactions
+
+![Transactions](screenshots/transactions.png)
+
+### Currency Exchange
+
+![Currency Exchange](screenshots/currency-exchange.png)
